@@ -19,4 +19,12 @@ On clicking the checkout button, the user should be taken to a second screen whe
  Create a MySql database named "onlineFood", and there import the provided "food-point.sql". Host the given PHP pages at "http://localhost/foodOrdering/index.php" (create a folder named "orderFood" in your local machine, and place the PHP files there). Now host the given files in "foodOrdering" as well, and then visit the hosted "index.html" page.
  
  ## Screenshots
+ Signup: ![Signup](https://github.com/ar5022000/onlineFood/blob/master/signup.png?raw=true)
  
+ Login: ![Login](https://github.com/ar5022000/onlineFood/blob/master/login.png?raw=true)
+ 
+ Create Food: ![Create Food](https://github.com/ar5022000/onlineFood/blob/master/create%20food.png?raw=true)
+ 
+ Menu: ![Menu](https://github.com/ar5022000/onlineFood/blob/master/menu.png?raw=true)
+ 
+ Checkout: ![Checkout](https://github.com/ar5022000/onlineFood/blob/master/checkout.png?raw=true)
